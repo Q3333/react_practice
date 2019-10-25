@@ -1,8 +1,9 @@
 {
-  "name": "moive_app",
+  "name": "movie_app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "proptypes": "^1.1.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-scripts": "3.2.0"
