@@ -1,0 +1,7 @@
+{
+    "prettier.disableLanguages": [
+        "vue",
+        "Editor.formatOnsace: TRUE"
+    ],
+    "editor.formatOnSave": true
+}
