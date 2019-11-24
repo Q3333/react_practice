@@ -1,0 +1,81 @@
+.more {
+  display: block;
+  width: 55px;
+  height: 16px;
+  background-image: url("https://s.pstatic.net/static/www/img/2017/sp_nav_v170523.png");
+  background-position: 0 -78px;
+}
+
+.Test > span {
+  display: block;
+  width: 55px;
+  height: 16px;
+  background-image: url("https://s.pstatic.net/static/www/img/2017/sp_nav_v170523.png");
+  background-position: 0 -78px;
+}
+
+.blind {
+  position: absolute;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  margin: -1px;
+  width: 1px;
+  height: 1px;
+}
+
+.more:hover,
+.close:hover {
+  cursor: pointer;
+}
+
+.close {
+  display: block;
+  background-image: url("https://s.pstatic.net/static/www/img/2017/sp_nav_v170523.png");
+  width: 42px;
+  height: 16px;
+  background-position: -166px -78px;
+}
+
+.Test > div {
+  font-family: "돋움";
+  font-size: 13px;
+  position: -166px -78px;
+  top: 30px;
+  width: 340px;
+  height: 250px;
+  background: white;
+  visibility: hidden;
+}
+
+.chartdemo {
+  position: 0px -78px;
+  top: 30px;
+  width: 160px;
+  height: 160px;
+  /* border: 1px solid gold; */
+  float: left;
+  box-shadow: -1px 1px 5px grey;
+}
+
+.worddemo {
+  margin-right: 5px;
+  width: 160px;
+  height: 160px;
+  /* border: 1px solid gold; */
+  float: right;
+  box-shadow: -1px 1px 5px grey;
+}
+
+.list {
+  float: left;
+}
+
+.list li {
+  list-style: none;
+  margin-top: 5px;
+}
+
+.list li:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
