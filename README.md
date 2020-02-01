@@ -10,7 +10,7 @@
 
 
 
-결과물 :
+결과물 : https://q3333.github.io/react_practice
 
 ![1574583273910](assets/1574583273910.png)
 
