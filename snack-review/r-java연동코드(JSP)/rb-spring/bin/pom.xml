@@ -30,7 +30,7 @@
 		<log4jdbc.version>0.2.7</log4jdbc.version>
 		<hikariCP.version>3.3.1</hikariCP.version>
 		<commons.lang.version>3.8.1</commons.lang.version>
-		<commons.io.version>2.6</commons.io.version>
+		<commons.io.version>2.7</commons.io.version>
 		<jackson.datatype.version>2.9.8</jackson.datatype.version>
 		<json.version>20180813</json.version>
 		<junit-jupiter.version>5.4.0</junit-jupiter.version>
