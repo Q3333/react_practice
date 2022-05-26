@@ -19,7 +19,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<hikariCP.version>3.3.1</hikariCP.version>
-		<undertow.version>2.0.19.Final</undertow.version>
+		<undertow.version>2.2.11.Final</undertow.version>
 		<guava.version>27.1-jre</guava.version>
 		<jackson.datatype.version>2.9.8</jackson.datatype.version>
 		<log4jdbc.version>0.2.7</log4jdbc.version>
